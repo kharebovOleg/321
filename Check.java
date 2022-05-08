@@ -3,6 +3,7 @@ public class Check {
         boolean check = first.equalsIgnoreCase(second);
         if (check) {
             System.out.println("Выберите другое имя пользователя");
+            System.out.println("Выберите другое имя пользователя");
         } else {
             System.out.println("Отличное имя!");
             System.out.println("Ваше имя имеет длину " + first.length() + " символов");
