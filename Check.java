@@ -7,6 +7,7 @@ public class Check {
             System.out.println("Отличное имя!");
             System.out.println("Ваше имя имеет длину " + first.length() + " символов");
             System.out.println("А без пробелов ваше имя занимает " + first.replace(" ", "").length() + " символов");
+            System.out.println("3");
         }
     }
 }
